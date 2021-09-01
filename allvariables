@@ -1,4 +1,4 @@
-package A2; 
+package A1; 
 public class allvariables { 
    public static void main(String[] args) { 
         boolean a = false; 
