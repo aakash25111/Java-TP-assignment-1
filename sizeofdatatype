@@ -1,4 +1,4 @@
-package A3; 
+package A1; 
 public class sizeofdatatype { 
     public static void main(String[] args) { 
         System.out.println("Size of byte: " + (Byte.SIZE/8) + " bytes."); 
